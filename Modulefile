@@ -1,0 +1,8 @@
+name    'build-essential'
+version '0.1.0'
+source 'https://github.com/rogeriopradoj/puppet-build-essential.git'
+author 'rogeriopradoj'
+license 'MIT'
+summary 'Build essential module'
+description 'Install build essential packages, as build-essential chef does'
+project_page 'https://github.com/rogeriopradoj/puppet-build-essential'
